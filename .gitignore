@@ -50,7 +50,7 @@ sysinfo.txt
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
-.zip
+*.zip
 
 # Directories potentially created on remote AFP share
 .AppleDB
